@@ -4,8 +4,6 @@
 
 ## Description
 
-**What is a Platformer Game?**
-<br>
 This is a my second mini project of learning MERN-Stack. This is the next step me to learn the some advance of my html, css and js. This a fully responsive ecommerce wesite.
 
 ## Requirements for using it:
