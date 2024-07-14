@@ -1,0 +1,31 @@
+# Connect 4 Game Website
+
+**A Connect 4 Game is Codded in html, css and js Languages.**
+
+## Description
+
+This is a my second mini project Connect 4 Game of learning MERN-Stack. This is the next step me to learn the some advance of my html, css and js. This a fully responsive ecommerce wesite.
+
+## Requirements for using it:
+
+- VS Code or any IDE.
+- Any OS.
+- Any Browser.
+
+## Screenshots 🖼️
+
+### 01. Win Condition Horizontally
+
+![Screenshot 2](<Project-Images/Screenshot (53).png.png>)
+
+### 02. Win Condition Vertically
+
+![Screenshot 3](<Project-Images/Screenshot (54).png.png>)
+
+### 03. Win Condition Digonally
+
+![Screenshot 4](<Project-Images/Screenshot (55).png.png>)
+
+### 04. Win Condition Anti Digonally
+
+![Screenshot 5](<Project-Images/Screenshot (56).png.png>)

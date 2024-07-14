@@ -1,0 +1,58 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-image: radial-gradient(
+    circle,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #8aa7ec,
+    #79b3f4,
+    #69bff8,
+    #52cffe,
+    #41dfff,
+    #46eefa,
+    #5ffbf1
+  );
+  height: 100vh;
+  width: 100%;
+}
+
+#board {
+  width: 630px;
+  height: 540px;
+  border-radius: 50px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tile {
+  width: 70px;
+  height: 70px;
+  background: white;
+  border-radius: 50%;
+  margin: 5px;
+  border: 5px solid navy;
+}
+
+.red-piece {
+  background: red;
+  transition: all 0.7s ease-in-out;
+}
+
+.yellow-piece {
+  background: yellow;
+  transition: all 0.7s ease-in-out;
+}
+
+.red-piece:hover {
+  border: 5px solid white;
+}
+
+.yellow-piece:hover {
+  border: 5px solid white;
+}
