@@ -16,16 +16,16 @@ This is a my second mini project Connect 4 Game of learning MERN-Stack. This is 
 
 ### 01. Win Condition Horizontally
 
-![Screenshot 2](<Project-Images/Screenshot (53).png>)
+![Screenshot 1](<Project-images/Screenshot (53).png>)
 
 ### 02. Win Condition Vertically
 
-![Screenshot 3](<Project-Images/Screenshot (54).png>)
+![Screenshot 2](<Project-images/Screenshot (54).png>)
 
 ### 03. Win Condition Digonally
 
-![Screenshot 4](<Project-Images/Screenshot (55).png>)
+![Screenshot 3](<Project-images/Screenshot (55).png>)
 
 ### 04. Win Condition Anti Digonally
 
-![Screenshot 5](<Project-Images/Screenshot (56).png>)
+![Screenshot 4](<Project-images/Screenshot (56).png>)
