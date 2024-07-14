@@ -4,8 +4,6 @@
 
 ## Description
 
-**What is a Platformer Game?**
-<br>
 This is a start of my journey to learning MERN-Stack. This projects help me to learn the basics of my html, css and js.
 
 ## Requirements for using it:
