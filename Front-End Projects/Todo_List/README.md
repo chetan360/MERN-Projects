@@ -4,7 +4,6 @@
 
 ## Description
 
-**What is a Platformer Game?**
 <br>
 This is a my another mini project of learning MERN-Stack. This is the next step me to learn the some advance of my html, css and js. This a todo list.
 
