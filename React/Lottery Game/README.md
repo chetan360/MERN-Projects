@@ -40,6 +40,10 @@ This is a my another mini project of learning MERN-Stack. This is the next step 
 
 ![Screenshot 2](<Images/Screenshot (64).png>)
 
-### 03. Winning Message.
+### 03. Win Condition Sum == 15.
 
 ![Screenshot 3](<Images/Screenshot (65).png>)
+
+### 04. Win Condition all digits are same.
+
+![Screenshot 4](<Images/Screenshot (66).png>)
