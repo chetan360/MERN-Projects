@@ -1,4 +1,4 @@
-# Calculator
+# Todo List
 
 **A Todo List is Codded in html, css and js Languages.**
 

@@ -1,4 +1,4 @@
-# Calculator
+# Lottery Game React
 
 **A Lottery Game is Codded in html, css and React.js Languages.**
 

@@ -1,4 +1,4 @@
-# Calculator
+# Todo List React
 
 **A Todo List is Codded in html, css and React.js Languages.**
 
